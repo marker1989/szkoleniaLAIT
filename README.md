@@ -1,1 +1,2 @@
 "# szkoleniaLAIT" 
+szko³a
