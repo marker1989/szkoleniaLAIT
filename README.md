@@ -4,3 +4,4 @@ nuda
 nuda
 nuda
 rumun
+tuki tuki
